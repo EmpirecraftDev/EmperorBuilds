@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2022-09-16 22:47:47 -0500",
+      "minecraft:birch_forest": "2022-09-16 22:48:54 -0500",
+      "minecraft:plains": "2022-09-16 22:49:00 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
